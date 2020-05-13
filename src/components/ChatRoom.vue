@@ -6,7 +6,7 @@
 
     <p>
       Ouvrez ce lien dans une autre fenêtre de navigateur pour discuter
-      <code>https://your-url.com/#/chats/{{ chatId }}</code>
+      <code>https://ndene-telegram.netlify.app/#/chats/{{ chatId }}</code>
     </p>
 
     <User #user="{ user }">
